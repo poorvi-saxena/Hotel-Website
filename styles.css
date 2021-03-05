@@ -1,0 +1,156 @@
+body{
+  background-image: url("Images/bg.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 90vh;
+}
+
+h1{
+  font-family: 'GlacialIndifferenceRegular';
+  font-weight: 900;
+  font-style: normal;
+  color: white;
+  font-size: 80px;
+  line-height: 120px;
+  letter-spacing: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h3{
+  font-family: 'GlacialIndifferenceRegular';
+  font-weight: bold;
+  font-style: italic;
+  color: white;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 18px;
+  text-align: center;
+}
+
+h4{
+  font-family: 'Yeseva One', cursive;
+  font-size: 70px;
+  letter-spacing: 15px;
+}
+
+h5{
+padding: 0 30px;
+text-align: center;
+color:#393e46;
+line-height: 30px;
+}
+
+h6{
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  line-height: 70px;
+  color:#63686e;
+}
+
+.lll{
+    display: flex;
+  width: 100%;
+  line-height: 80px;
+  position: absolute;
+  bottom: 40px;
+  left: 0px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+#live{margin:0 30px;width:25%;}
+#love{margin:0 30px;width: 50%;}
+#laugh{margin:0 30px;width:25%;}
+
+.book{
+  height: 90vh;
+  margin: 50px;
+  padding: 30px 10px;
+}
+
+.left{
+  background-color: #eff8ff;
+  float: left;
+  width: 60%;
+  height: 80vh;
+  padding: 50px 20px;
+  align-content: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.myButton {
+margin-top: 60px;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:30px;
+	font-weight:bold;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.right{
+  width: 40%;
+  align-content: center;
+  overflow: hidden;
+  padding-left: 20px;
+}
+
+.join-img{
+  height: 80vh;
+
+}
+
+.features{
+  display: flex;
+  height: 100vh;
+  margin: 30px;
+justify-content: center;
+position: relative;
+}
+
+.card{
+  width: 35%;
+  background-color: white;
+  height: 90vh;
+  padding: 15px;
+  margin: 25px;
+  display: inline-block;
+
+}
+
+.card-img{
+  width:100%;
+  height:60%;
+  display: block;
+  margin-bottom: 20px;
+
+}
+
+.bottom{
+  background-color: #222831;
+  padding:20px 0 12px;
+  color: white;
+  margin: 0;
+}
+
+.list-inline-item{
+margin: 10px 30px auto;
+}

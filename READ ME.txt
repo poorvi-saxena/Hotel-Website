@@ -1,0 +1,19 @@
+Hotel REMSTONE Project by Poorvi Saxena (Sch. No - 181114075)
+
+-x-          MAIN HOME PAGE - INDEX.HTML            -x-
+
+Used: 
+1. Html5
+2. CSS
+3. JavaScript library: jQuery
+
+
+Cost on Booking Page calculation:
+
+Number of People = Adults + Children
+Number of people per room = 3 (max 4 in case total no. of people are (3x+1))
+
+Total cost = (number of rooms) x $300   / night.
+
+
+-x-   Design by Poorvi Saxena   -x-
